@@ -2,4 +2,4 @@
 
 HTML & CSS Let's start!
 
-A good beginning is half the battle. or Well begun is half done.
+A good beginning is half the battle.
